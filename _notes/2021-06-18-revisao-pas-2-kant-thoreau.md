@@ -3,7 +3,6 @@ title: Revisão PAS UnB 2 (Kant e Thoreau)
 date: 2021-06-18 00:00:00 Z
 categories:
 - aulas
-layout: post
 image: pasunb22020.jpg
 excerpt: Revisão com vídeos e questões sobre os textos de Kant e Thoreau indicados
   para o PAS 2, da UnB
@@ -40,3 +39,5 @@ Nesse questionário você vai encontrar algumas questões sobre os dois textos a
 <iframe src="https://kahoot.it/challenge/01244147?challenge-id=15753ace-9978-422a-8551-6b551632bc9c_1624021587352" allowfullscreen="" width="590" height="475" frameborder="0"></iframe>
 <br>
 É isso. Espero que ajude. Se tiver qualquer dúvida, pode perguntar. <i class="far fa-smile-wink"></i>
+
+Extra: [Revisão para PAS 2](https://marcosramon.net/revisao-pas-1-unb)
