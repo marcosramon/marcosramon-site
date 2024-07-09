@@ -7,7 +7,6 @@ categories:
 tags:
 - podcast
 - filosofia
-layout: post
 description: O ser humano é provavelmente o único animal que não tem uma experiência
   do tempo limitada ao presente. O que isso nos permite?
 image: ficcoes.jpg
