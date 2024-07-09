@@ -2,6 +2,7 @@
 title: Introdução à Estética e História da Arte
 tags: []
 layout: page
+permalink: /estetica
 categories: ''
 excerpt: ''
 image: "/uploads/da633fae-2f70-46cb-8b16-a73c626c1fd8.jpeg"
