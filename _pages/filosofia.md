@@ -3,6 +3,7 @@ title: Filosofia
 layout: page
 description: Materiais sobre e para o ensino de Filosofia | Marcos Ramon
 image: descompasso-div.png
+permalink: /filosofia
 ---
 
 ## Roteiros de aulas
