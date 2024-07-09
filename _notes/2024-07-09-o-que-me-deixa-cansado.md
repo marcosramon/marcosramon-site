@@ -1,5 +1,7 @@
 ---
-Title: O que me deixa cansado?
+title: O que me deixa cansado?
+date: 2024-07-09
+excerpt: "Poder apenas existir não é mais um direito que temos"
 ---
 
 Estou de férias, e ainda assim me sinto cansado. Não são as tarefas de casa. Na verdade, sem as tarefas de casa seria pior, porque elas me dão um propósito para o dia, e saber que estou fazendo algo para minha esposa e meu filho me traz alegria.
