@@ -5,9 +5,9 @@ categories:
 - blog
 tags:
 - desenho
-layout: post
 image: aultimaficha.jpg
 author: Marcos Ramon
+published: false
 ---
 
 <img src="/assets/images/aultimaficha.jpg">
