@@ -1,7 +1,6 @@
 ---
 title: A coisa mais importante
 excerpt: Viver é inevitável e, por isso, o grande problema filosófico não é decidir sobre a vida, mas escolher efetivamente vivê-la.
-layout: post
 ---
 
 Camus escreveu a definição famosa de filosofia que a considera como a área que coloca o problema central da existência: decidir se a vida vale a pena ser vivida. Da maneira como a questão for colocada, claro, respostas opostas podem ser consideradas válidas — e parece que nos é dada, de fato, a oportunidade da escolha.
