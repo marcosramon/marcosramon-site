@@ -1,7 +1,6 @@
 ---
 title: Estamos perdidos
 excerpt: Desde o final de 2022 que tenho me interessado pelo tema da inteligência artificial generativa. Mas sinto agora, e cada vez mais, que fui pego pelo hype e enganado com as perspectivas do impacto que essas ferramentas podem ter em nossas vidas.
-layout: post
 date: 2024-05-20
 ---
 
