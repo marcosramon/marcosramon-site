@@ -6,3 +6,5 @@ permalink: /arquivo
 
 ## Arquivo
 Aqui você encontra links para todos os posts neste site, em formato de grafo.
+
+{% include notes_graph.html %}
