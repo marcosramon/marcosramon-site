@@ -7,7 +7,6 @@ categories:
 tags:
 - podcast
 - filosofia
-layout: post
 description: Vivemos em uma cultura de excessos, em que falamos demais e sobre todas
   as coisas. Por que é tão difícil ficar em silêncio?
 image: ficcoes.jpg
