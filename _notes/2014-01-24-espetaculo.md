@@ -6,7 +6,6 @@ categories:
 tags:
 - cotidiano
 - cultura
-layout: post
 description: Tem algo de irônico no fato de que eu consigo gostar tanto da visão de
   cultura de Mario Vargas Llosa mesmo tendo atitudes completamente opostas a tudo
   o que ele diz. Minutos depois de reler um capítulo de A civilização do espetáculo
