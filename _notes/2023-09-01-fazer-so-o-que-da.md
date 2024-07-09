@@ -1,7 +1,6 @@
 ---
 title: Fazer só o que dá para fazer
 excerpt: Por esses dias decidi começar a fazer só o que dá pra fazer. Nada de exagerar nas obrigações, demandas ou extrapolação de horários; nada de abandonar o bom senso e me entregar à lógica de que a boa vida é aquela em que se trabalha até desmaiar. Vou seguir só o quanto consigo, sem me cobrar demais.
-layout: post
 ---
 Por esses dias decidi começar a fazer só o que dá pra fazer. Nada de exagerar nas obrigações, demandas ou extrapolação de horários; nada de abandonar o bom senso e me entregar à lógica de que a boa vida é aquela em que se trabalha até desmaiar. Vou seguir só o quanto consigo, sem me cobrar demais.
 
