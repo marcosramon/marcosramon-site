@@ -3,6 +3,7 @@ title: Ética Aplicada à Informática
 tags: []
 layout: page
 categories: ''
+permalink: /etica
 excerpt: ''
 image: "/uploads/da633fae-2f70-46cb-8b16-a73c626c1fd8.jpeg"
 description: Acesso a documentos básicos da disciplina Ética Aplicada à Informática
