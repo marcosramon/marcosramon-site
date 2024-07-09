@@ -3,6 +3,7 @@ title: ChatGPT, a inteligência artificial e a prática docente - materiais e li
 layout: page
 image: "/uploads/da633fae-2f70-46cb-8b16-a73c626c1fd8.jpeg"
 description: Materiais relacionados ao uso de inteligência artificial generativa na docência
+permalink: /chatgpt-docentes
 ---
 
 ### Slides
