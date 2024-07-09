@@ -35,7 +35,7 @@ Se quiser receber atualizações dos meus textos por email, se inscreva na newsl
 
 Escrevo e faço podcast por puro diletantismo. Leia e escute por sua conta e risco.
 
-O template que utilizo nesse blog é uma versão customizada do tema [Duo](https://chibicode.github.io/duo/){:target="_blank"}, para Jekyll.
+O template que utilizo nesse blog é uma versão customizada do tema [My Digital Garden](https://github.com/maximevaillancourt/digital-garden-jekyll-template){:target="_blank"}, para Jekyll.
 
 ## Aviso de transparência
 
