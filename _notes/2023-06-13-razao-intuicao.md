@@ -1,7 +1,6 @@
 ---
 title: Razão, intuição e um sentido para existir
 excerpt: A racionalidade humana é um tema recorrente nas coisas que escrevo, especialmente porque lendo os autores que mais gosto, vejo que a maioria deles concorda com o fato de que a razão não é algo que nos torna melhores do que qualquer outra coisa no universo. 
-layout: post
 ---
 
 A racionalidade humana é um tema recorrente nas coisas que escrevo, especialmente porque lendo os autores que mais gosto, vejo que a maioria deles concorda com o fato de que a razão não é algo que nos torna melhores do que qualquer outra coisa no universo. Na maior parte do tempo, cada um deles me diz, à sua maneira, que somos tapeados com a sensação de que a racionalidade nos mantém no controle de tudo.
