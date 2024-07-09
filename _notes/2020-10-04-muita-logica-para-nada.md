@@ -3,7 +3,6 @@ title: Muita lógica para nada?
 date: 2020-10-04 00:00:00 Z
 categories:
 - blog
-layout: post
 image: eyes.gif
 excerpt: Muitas pessoas, ao longo da história, já esbravejaram contra a tentativa
   de racionalização e organização do pensamento por meio da lógica. Desde de Sócrates,
