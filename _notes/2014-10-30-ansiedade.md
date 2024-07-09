@@ -5,7 +5,6 @@ categories:
 - blog
 tags:
 - cotidiano
-layout: post
 description: Ansiedade... coisa terrível.
 image: https://66.media.tumblr.com/6a368aa785dfe1fa254e6efe0ec6d446/tumblr_ngsk7rtKRf1rwk5rgo1_500.gifv
 author: Marcos Ramon
