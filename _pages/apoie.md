@@ -1,6 +1,7 @@
 ---
 title: Apoie
 layout: page
+permalink: /apoie
 ---
 
 Se você gosta do que produzo e algo que eu criei é importante para você ou te inspirou de alguma forma, considere me apoiar. Quero continuar desenvolvendo conteúdo de forma independente, e sua ajuda é muito importante. Veja aqui algumas maneiras de me ajudar a continuar produzindo:
