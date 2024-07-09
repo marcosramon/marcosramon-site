@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# Olá! 🌱
+# Olá! 👋🏼
 
 ![](/assets/images/gephi2.png)
 
