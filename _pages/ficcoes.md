@@ -3,6 +3,7 @@ title: Ficções
 layout: page
 description: Narrativas filosóficas.
 image: ficcoes-sp.png
+permalink: /ficcoes
 ---
 
 <i class="icon-twitter"></i> <a href="https://twitter.com/PodcastFiccoes">@PodcastFiccoes</a>
