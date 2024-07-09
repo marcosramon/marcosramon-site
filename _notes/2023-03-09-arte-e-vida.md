@@ -4,7 +4,7 @@ excerpt: A arte pode ser uma forma de nos relacionarmos de uma forma melhor cada
 published: true
 ---
 
-Talvez a arte seja mesmo, como afirma Alain de Botton[^1], uma forma de terapia. E por intuir isso desde sempre é que eu me empurrei para escrever, desenhar, tocar um instrumento. Mas mesmo se a arte for “uma forma de descobrir quem somos”, isso não quer dizer que seja essa a *solução simples* que todos procuram — viver nunca é simples; se relacionar consigo mesmo, menos ainda.
+Talvez a arte seja mesmo, como afirma Alain de Botton[^1], uma forma de terapia. E por intuir isso desde sempre é que eu me empurrei para escrever, desenhar, tocar um instrumento. Mas mesmo se a arte for “[uma forma de descobrir quem somos](https://marcosramon.net/quando-arte-nos-define)”, isso não quer dizer que seja essa a *solução simples* que todos procuram — viver nunca é simples; se relacionar consigo mesmo, menos ainda.
 
 Mas dedicar um tempo para pensar sobre o cotidiano a partir das nossas capacidades criativas tem um valor gigante. Ainda mais hoje, em uma época em que somos convidados a consumir mídia e informação o tempo todo. Eu me sinto esmagado por essa sensação de não conseguir largar a internet; e imagino que com você não seja diferente. Mas é preciso tentar.
 
