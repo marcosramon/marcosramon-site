@@ -2,7 +2,6 @@
 title: "O espaço entre nós"
 excerpt: "Estamos chegando mais perto do objetivo de perder o pouco que ainda temos de nós mesmos"
 date: 2024-05-19
-layout: post
 ---
 
 O que faz com que a gente possa se entender no mundo é o fato de que não somos todos os mesmos. Pensando, chorando, sofrendo e sorrindo, somos todos diferentes, únicos, versões de nós mesmos que nem entendemos de direito. E isso nos permite a sensação de novidade quando encontramos uns aos outros.
