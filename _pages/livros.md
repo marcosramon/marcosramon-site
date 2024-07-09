@@ -3,6 +3,7 @@ title: Livros
 layout: page
 description: Livros publicados | Marcos Ramon
 image: descompasso-div.png
+permalink: /livros
 ---
 
 ## Livros publicados
