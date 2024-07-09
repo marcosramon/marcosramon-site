@@ -6,7 +6,6 @@ categories:
 tags:
 - cotidiano
 - desenho
-layout: post
 description: Até o séc. XIX falar em futuro talvez fosse falar em algo muito vago.
   Afinal, era bem provável que os pais e avós tivessem conhecido uma vida bem semelhante
   àquela que seus filhos e netos agora tinham.
