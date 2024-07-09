@@ -16,6 +16,6 @@ Não importa o quanto eu ache que mudei. No final, continuo sempre pensando basi
 
 A gente aprende muito pouco a ser diferente. Agir contra si próprio parece contraproducente, porque a vida nos ensina (de alguma forma que não sei explicar) que para viver é preciso regularidade e previsibilidade.
 
-Ninguém consegue suportar ser outro alguém e, por isso, lá no fundo, gostaríamos apenas de ser quem já somos. Aprendendo coisas novas, tendo novas experiências, mas ainda assim... sendo os mesmos.
+Ninguém consegue suportar ser outro alguém e, por isso, lá no fundo, gostaríamos apenas de ser quem já somos. Aprendendo coisas novas, tendo novas experiências, mas ainda assim... [sendo os mesmos](https://marcosramon.net/a-realidade-e-nos-mesmos).
 
 <img src="/assets/images/pensar1.jpg">
