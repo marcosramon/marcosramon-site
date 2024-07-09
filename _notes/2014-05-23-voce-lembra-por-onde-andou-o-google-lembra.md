@@ -6,7 +6,6 @@ categories:
 tags:
 - tecnologia
 - internet
-layout: post
 description: Você se deixa vigiar mais do que devia?
 image: googlehistory.png
 author: Marcos Ramon
