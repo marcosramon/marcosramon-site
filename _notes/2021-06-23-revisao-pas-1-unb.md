@@ -3,7 +3,6 @@ title: Revisão PAS UnB 1º ano
 date: 2021-06-23 00:00:00 Z
 categories:
 - aulas
-layout: post
 image: pasunb1.jpg
 excerpt: Revisão com vídeos e questões sobre os textos de Platão, Epicuro e Eurípedes,
   indicados para o PAS 1, da UnB
@@ -50,3 +49,5 @@ Nesse questionário você vai enocntrar algumas questões sobre os três textos 
 <iframe src="https://kahoot.it/challenge/04260269?challenge-id=15753ace-9978-422a-8551-6b551632bc9c_1624625218956" allowfullscreen="" width="590" height="475" frameborder="0"></iframe>
 <br>
 É isso. Espero que ajude. Se tiver qualquer dúvida, pode perguntar. <i class="far fa-smile-wink"></i>
+
+Extra: [Revisão para o PAS 1](https://marcosramon.net/revisao-pas-2-kant-thoreau)
