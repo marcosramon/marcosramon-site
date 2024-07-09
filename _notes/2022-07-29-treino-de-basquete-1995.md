@@ -4,7 +4,6 @@ date: 2022-07-29 00:00:00 Z
 categories:
 - blog
 excerpt: Quando a memória nos trai, sentimos que somos um pouco menos nós mesmos.
-layout: post
 image: 40026C66-01A6-4B54-BF9E-E533C7A7D5DB.jpeg
 ---
 
@@ -86,7 +85,7 @@ Engraçado isso de encontrar outras pessoas da época da escola. A memória trai
 
 – Tá certo. Falou.
 
-Que coisa bizarra. Eu achando que só eu não lembrava dele. Mas no final, foi ele quem puxou assunto com um estranho que nunca viu na vida. O tempo é implacável com a gente. Não só porque a gente envelhece, mas porque acabamos esquecendo até de quem somos. Ele já tinha se afastado uns três metros, quando eu lembrei de uma coisa: 
+Que coisa bizarra. Eu achando que só eu não lembrava dele. Mas no final, foi ele quem puxou assunto com um estranho que nunca viu na vida. O tempo é implacável com a gente. Não só porque a gente envelhece, mas porque [acabamos esquecendo até de quem somos](https://marcosramon.net/benjamin-e-o-conceito-de-memoria). Ele já tinha se afastado uns três metros, quando eu lembrei de uma coisa: 
 
 – Antônio?
 
