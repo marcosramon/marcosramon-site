@@ -3,6 +3,7 @@ title: Aplicações da Inteligência Artificial na Educação Profissional
 layout: page
 description: material relacionado ao curso "Aplicações da Inteligência Artificial na Educação Profissional", ofertado pelo Instituto Federal de Brasília, Campus Brasília
 image: "/assets/images/logo podcast 2.png"
+permalink: /material-aplicacoes-ia-educacao-profissional
 ---
 
 **Curso:** Aplicações da Inteligência Artificial na Educação Profissional, 40h, EaD
