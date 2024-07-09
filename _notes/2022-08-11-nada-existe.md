@@ -3,7 +3,6 @@ title: Nada existe
 date: 2022-08-11 03:00:00 Z
 categories:
 - blog
-layout: post
 excerpt: Quando observamos a realidade, acabamos aceitando que tudo é mais simples
   do que parece.
 image: "/uploads/20220808_080433-1.jpg"
