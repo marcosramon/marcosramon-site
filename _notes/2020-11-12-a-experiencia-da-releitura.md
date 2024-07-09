@@ -3,13 +3,12 @@ title: A experiência da releitura
 date: 2020-11-12 00:00:00 Z
 categories:
 - blog
-layout: post
 image: holmes.JPG
 excerpt: Voltando a ler Sherlock Holmes e descobrindo que não lembro de quase nada
   da primeira leitura.
 ---
 
-[Schopenhauer](https://amzn.to/2ItrrT2) escreveu que o bom leitor não é aquele que lê muitos livros, mas sim aquele que relê. Apesar de confiar nisso, preciso admitir que raramente faço releituras. Mas esses dias, meio que por acaso, voltei a ler Sherlock Holmes e descobri que não lembro de quase nada desses livros que eu já conhecia. Estranho, né?
+[Schopenhauer](https://amzn.to/2ItrrT2) escreveu que o bom leitor não é aquele que lê muitos livros, mas sim [aquele que relê](https://marcosramon.net/ler-menos). Apesar de confiar nisso, preciso admitir que raramente faço releituras. Mas esses dias, meio que por acaso, voltei a ler Sherlock Holmes e descobri que não lembro de quase nada desses livros que eu já conhecia. Estranho, né?
 
 Faz tempo que eu e a minha esposa insistíamos para que nosso filho lesse *[O cão dos Baskerville](https://amzn.to/2JTMBKq)*. Daí, pra estimular ele, fiquei lendo o livro junto, no mesmo ritmo. Sempre que ele lia um capítulo eu também lia e depois a gente conversava sobre o texto. E é curioso que as surpresas que ele tinha eram também as minhas, porque eu não conseguia lembrar de praticamente nada. Terminando esse livro fui para *[Um estudo em vermelho](https://amzn.to/32DhGbL)*, e aconteceu o mesmo: apesar de já ter lido, só consegui ter vislumbres de cenas e diálogos. O todo da história seguia completamente perdido na minha memória.
 
