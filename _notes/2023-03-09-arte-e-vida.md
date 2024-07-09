@@ -1,7 +1,6 @@
 ---
 title: Arte e vida
 excerpt: A arte pode ser uma forma de nos relacionarmos de uma forma melhor cada um consigo mesmo.
-layout: post
 published: true
 ---
 
