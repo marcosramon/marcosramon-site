@@ -1,5 +1,5 @@
 ---
-title: ChatGPT: a inteligência artificial e a prática docente (materiais e links)
+title: ChatGPT: a inteligência artificial e a prática docente - materiais e links
 tags: []
 layout: page
 categories: ''
