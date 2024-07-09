@@ -9,7 +9,6 @@ tags:
 - Redes sociais
 - comportamento
 - sociedade
-layout: post
 image: 
 excerpt: Todo mundo é esperto e sabe tanta coisa na internet, que a sensação é de
   encontrar um Sócrates em cada post do Twitter ou comentário no YouTube. Será que
@@ -22,7 +21,7 @@ Sobre Sócrates, o que a gente sabe dele vem do principal discípulo, que foi Pl
 
 Sócrates encontra, naturalmente, pessoas mais inteligentes do que ele, artistas, políticos, poetas... Mas o problema é que essas pessoas acreditavam que já sabiam de tudo, ou que o que sabiam bastava. E é por isso que Sócrates conclui que nenhum deles era mais sábio. No entanto, Sócrates entende que o deus Apolo, por meio do Oráculo, não queria exaltar a sabedoria dele, mas sim mostrar que nenhum homem é sábio, mas todos podem buscar a sabedoria, todos podem ser filósofos. E, lembre, filosofia é "amor à sabedoria" e não simplesmente "sabedoria". É justamente daí que vem a famosa frase paradoxal utilizada por Sócrates: "Só sei que nada sei".
 
-Sócrates é mais sábio porque ele pelo menos é capaz de reconhecer a ignorância e de ir em busca da verdade. Mas ele não sabe tudo. Então, se coloca na posição de perguntar, de questionar, de colocar contra a parede aqueles que acham que sabem. E é aqui que a analogia do texto, entre Sócrates e as redes sociais, faz sentido.
+[Sócrates é mais sábio porque ele pelo menos é capaz de reconhecer a ignorância e de ir em busca da verdade](https://marcosramon.net/uma-vida-sem-reflexao). Mas ele não sabe tudo. Então, se coloca na posição de perguntar, de questionar, de colocar contra a parede aqueles que acham que sabem. E é aqui que a analogia do texto, entre Sócrates e as redes sociais, faz sentido.
 
 Quando estamos no YouTube, Twitter, Instagram ou qualquer outro desses serviços de redes sociais, tendemos a observar e condenar as atitudes alheias. Como se fôssemos Sócrates, vamos apontando os defeitos e as falhas dos outros como se estivéssemos fazendo um grande bem à humanidade. Desde as discussões mais sérias até as mais banais, estamos lá, questionando o saber alheio, mostrando as problemas nos argumentos, perguntando: "Você realmente sabe o que acha que sabe?". Nada disso é errado, mas cabe uma reflexão sobre essa pretensão de verdade que nos atinge. 
 
