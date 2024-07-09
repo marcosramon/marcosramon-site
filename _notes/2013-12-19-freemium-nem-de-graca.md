@@ -5,7 +5,6 @@ categories:
 - blog
 tags:
 - tecnologia
-layout: post
 description: A praga do modelo freemium se espalha pelo mundo
 image: abstrato6.jpg
 author: Marcos Ramon
