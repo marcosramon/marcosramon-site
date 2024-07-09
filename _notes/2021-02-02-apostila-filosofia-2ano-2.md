@@ -3,7 +3,6 @@ title: Apostila Filosofia 2º ano (parte 2)
 date: 2021-02-02 00:00:00 Z
 categories:
 - aulas
-layout: post
 image: 
 excerpt: 'Conteúdo de Filosofia para o 2º ano do Ensino Médio. Tema: teoria do conhecimento
   + lógica'
@@ -251,7 +250,6 @@ Bem, por enquanto é só. Mas antes de sair, vou reforçar a sugestão da aposti
 - [O gênio maligno](https://marcosramon.net/blog/o-genio-maligno)
 - [Muita lógica para nada?](https://marcosramon.net/blog/muita-logica-para-nada)
 
-
 ## Referências
 
  - ALMEIDA, Aires; TEIXEIRA, Célia; MURCHO, Desidério; MATEUS, Paula; GALVÃO, Pedro. **A arte de Pensar: Filosofia 10º ano**. Lisboa: Plátano Ed., 2008.
@@ -261,3 +259,7 @@ Bem, por enquanto é só. Mas antes de sair, vou reforçar a sugestão da aposti
  - MARCONDES, Danilo. **[Iniciação à História da Filosofia: dos pré-socráticos a Wittgenstein](https://amzn.to/2GwQEL5)**. Rio de Janeiro: Jorge Zahar Ed., 2004.
  - RUSSELL, Bertrand. **[Os Problemas da Filosofia](https://amzn.to/33o108W)**. Lisboa: Edições 70, 2008.
  - VASCONCELOS, José Antonio. **[Reflexões: filosofia e cotidiano](https://amzn.to/2GyLiih)**. São Paulo. Edições SM, 2016.
+
+## Extra
+- [Revisão para o PAS 1](https://marcosramon.net/revisao-pas-1-unb)
+- [Revisão para o PAS 2](https://marcosramon.net/revisao-pas-2-kant-thoreau)
