@@ -6,7 +6,6 @@ categories:
 tags:
 - cotidiano
 - desenho
-layout: post
 description: Coisas que eu tenho que fazer no ano que vem
 image: 2014.jpg
 author: Marcos Ramon
