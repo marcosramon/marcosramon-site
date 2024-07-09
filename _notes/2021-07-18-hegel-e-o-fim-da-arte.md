@@ -3,7 +3,6 @@ title: Hegel e o fim da arte
 date: 2021-07-18 00:00:00 Z
 categories:
 - aulas
-layout: post
 image: hegel2.jpeg
 excerpt: Nesse texto apresento (de forma bem sintética) os pontos centrais da reflexão
   de Hegel sobre a estética
@@ -55,3 +54,10 @@ Nesse questionário você vai encontrar algumas questões sobre o tema cima. Voc
 <iframe src="https://kahoot.it/challenge/06435106?challenge-id=15753ace-9978-422a-8551-6b551632bc9c_1626627026404" allowfullscreen="" width="590" height="475" frameborder="0"></iframe>
 <br>
 É isso. Espero que ajude. Se tiver qualquer dúvida, pode perguntar. 😉
+
+## Extras
+- [Revisão do PAS 1](https://marcosramon.net/revisao-pas-1-unb)
+- [Revisão do PAS 2](https://marcosramon.net/revisao-pas-2-kant-thoreau)
+- [Apostila 2º ano, parte 2](https://marcosramon.net/apostila-filosofia-2ano-2)
+- [Apostila 2º ano, parte 1](https://marcosramon.net/apostila-filosofia-2ano-1)
+- [Apostila 3º ano](https://marcosramon.net/apostila-filosofia-3ano-1)
