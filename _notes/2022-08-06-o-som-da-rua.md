@@ -3,7 +3,6 @@ title: O som da rua
 date: 2022-08-06 00:00:00 Z
 categories:
 - blog
-layout: post
 excerpt: Muitas vezes ficamos sem opção de escolher o silêncio (ou o que seria mais
   próximo dele), e o barulho quase nos consome.
 image: somdarua.png
@@ -23,6 +22,6 @@ John Cage, falando sobre 4’33’’, disse que “o silêncio não existe”. 
 
 > “Eu não poderia estar mais feliz do que estou neste apartamento, com os sons da Sexta Avenida que me surpreendem constantemente, que nunca se repetem”. John Cage
 
-De um jeito estranho, acho bonito isso. Pensar que a realidade que nos cerca oferece um material infinito de transformação constante. Às vezes, é só barulho, e esse som da rua muitas vezes dói; porque incomoda, atrapalha e tira o foco do que você gostaria de perceber. Ficamos sem escolha pelo silêncio (ou, o mais próximo dele). Mas pode ser também motivo para reflexão. Se a gente se deixa apenas existir, vamos lidar sempre com o mundo lá fora que invade a nossa sala e, no final, até a nossa cabeça. Ninguém, por escolha própria, iria dar espaço na vida para ouvir esses sons que não servem pra nada. Talvez por isso eles sejam tão impositivos, tão onipresentes.
+De um jeito estranho, acho bonito isso. Pensar que [a realidade que nos cerca oferece um material infinito de transformação constante](https://marcosramon.net/gostar-de-arte-contemporanea). Às vezes, é só barulho, e esse som da rua muitas vezes dói; porque incomoda, atrapalha e tira o foco do que você gostaria de perceber. Ficamos sem escolha pelo silêncio (ou, o mais próximo dele). Mas pode ser também motivo para reflexão. Se a gente se deixa apenas existir, vamos lidar sempre com o mundo lá fora que invade a nossa sala e, no final, até a nossa cabeça. Ninguém, por escolha própria, iria dar espaço na vida para ouvir esses sons que não servem pra nada. Talvez por isso eles sejam tão impositivos, tão onipresentes.
 
 <img src="/assets/images/somdarua.png">
