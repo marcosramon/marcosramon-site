@@ -7,7 +7,6 @@ tags:
 - desenho
 - cotidiano
 - tecnologia
-layout: post
 description: A gente certamente poderia viver sem tanta coisa.
 header-img: "/img/abstrato3.jpg"
 author: Marcos Ramon
