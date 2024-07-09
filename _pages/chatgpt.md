@@ -6,6 +6,7 @@ categories: ''
 excerpt: ''
 image: "/uploads/da633fae-2f70-46cb-8b16-a73c626c1fd8.jpeg"
 description: Materiais relacionados ao uso de inteligência artificial generativa
+permalink: /chatgpt
 ---
 
 ### Slides
