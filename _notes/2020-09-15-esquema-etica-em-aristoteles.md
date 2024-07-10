@@ -3,7 +3,6 @@ title: Esquema sobre a Ética em Aristóteles
 date: 2020-09-15 00:00:00 Z
 categories:
 - blog
-layout: post
 image: eticaaristoteles.jpg
 excerpt: Nesse esquema eu apresento as características centrais da reflexão sobre
   a Ética na filosofia de Aristóteles a partir de um mapa mental que une as discussões
