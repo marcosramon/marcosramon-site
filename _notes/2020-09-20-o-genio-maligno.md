@@ -3,13 +3,12 @@ title: O gênio maligno
 date: 2020-09-20 00:00:00 Z
 categories:
 - blog
-layout: post
 image: jm.gif
 excerpt: Para Descartes a dúvida é a prova cabal que existimos. Mas será essa certeza
   inabalável uma garantia de paz de espírito?
 ---
 
-Descartes, apesar de não ser cético, utilizava o ceticismo como método. O filósofo francês, considerado por muitos como pai da Filosofia Moderna, defendia que devemos duvidar de tudo num primeiro instante. Mas, diferentemente dos céticos, ele não acreditava que deveríamos parar na dúvida; é preciso superá-la para produzir conhecimento e, sim, é possível fazer isso com o uso das nossas capacidades racionais, algo que os céticos negavam.
+Descartes, apesar de não ser cético, utilizava o ceticismo como método. O filósofo francês, considerado por muitos como pai da Filosofia Moderna, defendia que devemos duvidar de tudo num primeiro instante. Mas, diferentemente dos céticos, ele não acreditava que deveríamos parar na dúvida; é preciso superá-la para [produzir conhecimento](https://marcosramon.net/conhecimento-filosofico) e, sim, é possível fazer isso com o uso das nossas capacidades racionais, algo que os céticos negavam.
 
 É assim que Descartes chegou à tese, aparentemente estranha, especialmente para um cristão como ele, de que Deus talvez não exista, mas exista em seu lugar um gênio maligno, um ser que nos criou para sua diversão e nos trata como marionetes, manipulando nossas vidas, se deliciando com nossas alegrias e sofrimentos. Na primeira “Meditação”, Descartes escreve:
 
