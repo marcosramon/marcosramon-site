@@ -3,7 +3,6 @@ title: Duvidar para fazer as perguntas certas
 date: 2020-08-22 00:00:00 Z
 categories:
 - blog
-layout: post
 image: cat.png
 excerpt: Lendo Montaigne é possível perceber que nós, erroneamente, ainda temos muito
   medo do ceticismo.
