@@ -3,13 +3,12 @@ title: A realidade se impõe
 date: 2020-09-07 00:00:00 Z
 categories:
 - blog
-layout: post
 image: loreal.jpeg
 excerpt: No nosso cotidiano convivemos com o dilema de ver a realidade competindo
   com as expectativas que temos. Mas conhecer a realidade (e só ela) é muito pouco?
 ---
 
-No nosso cotidiano convivemos com o dilema de ver a realidade competindo com as expectativas que temos. Digo que é um dilema porque cada pessoa sente que quer saber a “verdade” ao mesmo tempo em que sofre desejando que a realidade seja agradável e conveniente. Cada um de nós guarda, em algum lugar da nossa mente, um conjunto de ilusões que queremos sustentar e com as quais contamos para suportar a vida: a crença no destino, no amor ideal e na liberdade de escolha são algumas dessas ilusões. E assim lutamos durante parte de nossas vidas argumentando que essas coisas fazem sentido, acreditando (querendo acreditar!) que elas explicam tudo o que sentimos e compreendemos.
+No nosso [cotidiano](https://marcosramon.net/a-realidade-e-nos-mesmos) convivemos com o dilema de ver a realidade competindo com as expectativas que temos. Digo que é um dilema porque cada pessoa sente que quer saber a “verdade” ao mesmo tempo em que sofre desejando que a realidade seja agradável e conveniente. Cada um de nós guarda, em algum lugar da nossa mente, um conjunto de ilusões que queremos sustentar e com as quais contamos para suportar a vida: a crença no destino, no amor ideal e na liberdade de escolha são algumas dessas ilusões. E assim lutamos durante parte de nossas vidas argumentando que essas coisas fazem sentido, acreditando (querendo acreditar!) que elas explicam tudo o que sentimos e compreendemos.
 
 Se a única coisa que possuíssemos fosse uma capacidade pura e simples de entender a realidade dos fatos, a nossa vida seria insuportável e não encontraríamos prazer em quase nada. É a ausência de um senso de urgência constante que nos permite ter sonhos, fantasias e momentos de satisfação.
 
