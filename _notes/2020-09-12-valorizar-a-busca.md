@@ -3,7 +3,6 @@ title: Valorizar a busca
 date: 2020-09-12 00:00:00 Z
 categories:
 - blog
-layout: post
 image: rogue.jpeg
 excerpt: Estamos sempre em busca de uma resposta para alguma coisa, não interessa
   o quê, não interessa o motivo, o fato é que queremos saber de algo (ou de tudo,
