@@ -3,7 +3,6 @@ title: Como ser feliz
 date: 2020-10-02 00:00:00 Z
 categories:
 - blog
-layout: post
 image: comoserfeliz.jpeg
 excerpt: O utilitarismo é uma teoria que aponta para a necessidade de buscarmos a
   maior felicidade possível para o maior número de pessoas. Mas o problema inicial
@@ -19,6 +18,6 @@ Veja o gráfico abaixo, criado por Gustavo Vieira Dias:
 
 <img src="/assets/images/comoserfeliz.jpeg">
 
-Não parece simples? Não precisamos de um livro de 200 páginas pra entender isso ou de uma palestra ou de um tratado de filosofia ou qualquer outra coisa. Olhe pra você, olhe pra sua vida e cuide dela. Se está tudo bem, continue. Se alguma coisa não está bem, não tenha receio de mudar. Pra alcançar a felicidade só precisamos disso. “Mas felicidade total, assim, completa mesmo?” Certamente não. Mas esse é um terceiro erro: acreditar que a felicidade é não faltar nada.
+Não parece simples? Não precisamos de um livro de 200 páginas pra entender isso ou de uma palestra ou de um tratado de filosofia ou qualquer outra coisa. Olhe pra você, olhe pra sua vida e cuide dela. Se está tudo bem, continue. Se alguma coisa não está bem, não tenha receio de mudar. Pra [alcançar a felicidade](https://marcosramon.net/a-felicidade-pelo-caminho) só precisamos disso. “Mas felicidade total, assim, completa mesmo?” Certamente não. Mas esse é um terceiro erro: acreditar que a felicidade é não faltar nada.
 
 Sempre vai faltar alguma coisa. E ainda assim podemos seguir, com [a felicidade que nos é possível](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9hOWRjMzQ0L3BvZGNhc3QvcnNz/episode/ZTI5NDQ4MzktNmRjYy1hYzVkLTc5YTktMTk4NjNkOTEyMDJl?sa=X&ved=0CAUQkfYCahcKEwiQpaPYx5nsAhUAAAAAHQAAAAAQBw).
