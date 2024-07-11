@@ -3,7 +3,6 @@ title: Saber existir
 date: 2020-02-17 00:00:00 Z
 categories:
 - blog
-layout: post
 image: botas.jpeg
 excerpt: Quando perdemos alguém próximo a nós, sentimos, mais do que em qualquer outro
   momento da vida, a presença da sensação de incapacidade, pois é impossível agir
