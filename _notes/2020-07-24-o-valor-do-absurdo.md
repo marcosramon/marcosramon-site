@@ -3,7 +3,6 @@ title: O valor do absurdo
 date: 2020-07-24 00:00:00 Z
 categories:
 - blog
-layout: post
 image: parade.jpg
 excerpt: Sobre a palavra o surgimento da palavra surrealismo
 ---
