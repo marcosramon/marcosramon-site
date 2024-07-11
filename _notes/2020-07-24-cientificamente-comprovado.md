@@ -3,7 +3,6 @@ title: Cientificamente comprovado
 date: 2020-07-24 00:00:00 Z
 categories:
 - blog
-layout: post
 image: coeur.gif
 excerpt: Uma reflexão sobre o que faz com que a ciência seja ciência
 ---
