@@ -25,5 +25,5 @@ Ficções é um podcast que reúne narrativas filosóficas, ou seja, reflexões 
 
 Me ajude a continuar produzindo o podcast e outros projetos na internet: [marcosramon.net/apoie](https://marcosramon.net/apoie){:target="_blank"}
 
----
+<img src="/assets/images/ficcoes-sp.png">
 
