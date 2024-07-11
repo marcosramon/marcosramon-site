@@ -3,7 +3,6 @@ title: Visualizando a pesquisa
 date: 2020-07-02 00:00:00 Z
 categories:
 - blog
-layout: post
 image: gp1.png
 excerpt: Observando termos relacionados em uma reunião do grupo de pesquisa.
 ---
