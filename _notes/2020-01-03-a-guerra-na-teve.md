@@ -3,7 +3,6 @@ title: A guerra na tevê
 date: 2020-01-03 00:00:00 Z
 categories:
 - blog
-layout: post
 image: guerra.jpeg
 excerpt: 'Quando eu criança lembro de acordar um dia e ver todo mundo grudado na televisão.
   E depois, pra qualquer lugar que fôssemos, víamos a mesma cena: pessoas vendo a
