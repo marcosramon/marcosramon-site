@@ -1,5 +1,4 @@
 ---
-layout: post
 date: 2015-08-31
 title: "Como se nada tivesse mudado"
 description: "Comigo é assim: tem dias em que eu acordo com a sensação de que se passaram muitos dias sem que eu tivesse me dado conta."
