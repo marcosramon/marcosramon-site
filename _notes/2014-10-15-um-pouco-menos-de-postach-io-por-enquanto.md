@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Um pouco menos de postach.io (por enquanto)
 published: true
 tags: [Cotidiano]
