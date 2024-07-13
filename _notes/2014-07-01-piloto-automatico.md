@@ -6,7 +6,6 @@ categories:
 tags:
 - cotidiano
 - desenho
-layout: post
 description: Com certeza sempre teve gente assim, vivendo de maneira mecânica, sem
   nem perceber o porquê de cada coisa que fazia. Mas antes, talvez, a gente tivesse
   a desculpa de que garantir a sobrevivência era o mais importante.
