@@ -1,7 +1,6 @@
 ---
 title: 'Ficções #02 - A medida do tempo'
 date: 2014-05-18 00:00:00 Z
-published: false
 categories:
 - ficcoes
 tags:
