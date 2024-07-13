@@ -1,5 +1,4 @@
 ---
-layout: post
 title: O meio-termo
 description: "Proust escrevia frases de quarenta e quatro linhas e descrevia o transtorno de alguém que não conseguia dormir por infindáveis dezessete páginas."
 published: true
