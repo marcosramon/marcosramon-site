@@ -6,7 +6,6 @@ categories:
 tags:
 - cotidiano
 - desenho
-layout: post
 description: Eu tenho uma capacidade imensa de me importar demais com coisas menores,
   coisas que pouco interferem no resultado final do que eu faço e nem sequer vão ser
   percebidas pela maioria das pessoas.
