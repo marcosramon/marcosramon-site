@@ -3,7 +3,6 @@ title: Coisas estranhas acontecem
 date: 2017-01-09 00:00:00 Z
 categories:
 - blog
-layout: post
 image: estranhas.png
 excerpt: A realidade não é previsível o tempo todo. Todo mundo, em algum momento da
   vida, já esteve em contato com o absurdo e, claro, nesse momento nos sentimos especiais.
