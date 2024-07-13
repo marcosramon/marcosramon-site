@@ -5,7 +5,6 @@ categories:
 - blog
 tags:
 - cotidiano
-layout: post
 description: Apesar da minha desconfiança comigo mesmo
 image: http://40.media.tumblr.com/tumblr_m0s0mhjZ8W1rnqg7ho1_1280.jpg
 author: Marcos Ramon
