@@ -4,7 +4,6 @@ date: 2015-11-02 00:00:00 Z
 tags:
 - cotidiano
 - escrita
-layout: post
 description: É muito comum encontrarmos pessoas que não se preocupam o suficiente
   com o que fazem ou com as consequências do que dizem. E por isso, mas não só por
   isso!, há um encanto imenso em encontrar pessoas que simplesmente se importam com
