@@ -5,7 +5,6 @@ tags:
 - blog
 - tecnologia
 - cotidiano
-layout: post
 description: 'Sentei diante do computador, abri uma janela do navegador, outra, outra
   e pensei comigo mesmo: faz tempo que não escrevo no blog. Acho que preciso escrever
   alguma coisa. Daí fiquei pensando sobre o que eu devia escrever, de que forma e
