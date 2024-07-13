@@ -6,7 +6,6 @@ categories:
 tags:
 - filosofia
 - cotidiano
-layout: post
 image: sea.jpg
 description: Existem atos realmente altruístas. Eu sei que isso é verdade, assim como
   você. No entanto, a maioria das pessoas desconfia das outras e fica com um pé atrás
