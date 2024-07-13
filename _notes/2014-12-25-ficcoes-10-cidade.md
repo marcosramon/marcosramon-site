@@ -7,7 +7,6 @@ categories:
 tags:
 - podcast
 - filosofia
-layout: post
 description: Neste episódio eu falo sobre cidades. O surgimento da Filosofia tem conexão
   com o desenvolvimento dos centros urbanos, principalmente por conta da possibilidade
   de interação e troca de informações e conhecimentos.
