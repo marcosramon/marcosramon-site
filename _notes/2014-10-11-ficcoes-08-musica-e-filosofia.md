@@ -1,13 +1,11 @@
 ---
 title: 'Ficções #08 - Música e Filosofia'
 date: 2014-10-11 00:00:00 Z
-published: false
 categories:
 - ficcoes
 tags:
 - podcast
 - filosofia
-layout: post
 description: A música é tema de reflexão da filosofia desde a antiguidade. Muitos
   filósofos se debruçaram sobre as possibilidades e limitações da música, que tem
   sido considerada por muitos como a arte mais elevada e mais próxima do pensamento
