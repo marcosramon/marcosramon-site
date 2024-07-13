@@ -13,7 +13,7 @@ Meu nome é Marcos Ramon. Nasci em São Luís, mas moro em Brasília desde 2010.
 
 Sou Licenciado em Filosofia pela Universidade Federal do Maranhão (1999-2004), onde também concluí o Mestrado em Cultura e Sociedade (2009-2011). Fiz o Doutorado em Comunicação na Universidade de Brasília (2012-2014). 
 
-Aqui segue o [link do meu currículo lattes](http://lattes.cnpq.br/9538072103558772){:target="_blank"} e do [Orcid](https://orcid.org/0000-0002-8720-8706){:target="_blank"}. Quem tiver interesse em trocar ideias sobre a pesquisa é só mandar um [email](mailto:contato@marcosramon.net){:target="_blank"}. 
+Aqui segue o [link do meu currículo lattes](http://lattes.cnpq.br/9538072103558772){:target="_blank"} e do [Orcid](https://orcid.org/0000-0002-8720-8706){:target="_blank"}. Quem tiver interesse em trocar ideias sobre a pesquisa é só mandar um [email](mailto:marcosramon@gmail.com){:target="_blank"}. 
 
 ## O site
 
