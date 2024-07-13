@@ -3,7 +3,6 @@ title: Ser um ranzinza
 date: 2015-01-21 00:00:00 Z
 tags:
 - cotidiano
-layout: post
 description: Dia desses li um texto sobre alguém que fez a experiência de ficar uma
   semana sem reclamar e me toquei que eu praticamente não faço outra coisa que não
   seja reclamar. E se eu sou reservado no Facebook e no Twitter o mesmo não acontece
