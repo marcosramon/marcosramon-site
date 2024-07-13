@@ -7,7 +7,6 @@ tags:
 - cotidiano
 - cultura
 - sociedade
-layout: post
 description: Quem disse que todo mundo tem que sorrir o tempo todo?
 image: blackhole.jpg
 author: Marcos Ramon
