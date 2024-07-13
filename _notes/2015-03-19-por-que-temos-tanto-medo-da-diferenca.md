@@ -3,7 +3,6 @@ title: Por que temos tanto medo da diferença?
 date: 2015-03-19 00:00:00 Z
 tags:
 - cotidiano
-layout: post
 description: 'Certamente você já percebeu isso: todos os dias mais e mais pessoas
   se tornam mais raivosas, irritadas e se incomodam facilmente com o fato de existirem
   pessoas que pensam de outro jeito, se vestem de outro jeito ou tem preferências
