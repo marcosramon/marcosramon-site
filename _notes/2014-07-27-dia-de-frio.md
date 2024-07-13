@@ -6,7 +6,6 @@ categories:
 tags:
 - cotidiano
 - desenho
-layout: post
 image: diadefrio.png
 author: Marcos Ramon
 ---
