@@ -6,7 +6,6 @@ categories:
 tags:
 - som
 - indico
-layout: post
 description: Novos jeitos de continuar ouvindo música
 image: sea.jpg
 author: Marcos Ramon
