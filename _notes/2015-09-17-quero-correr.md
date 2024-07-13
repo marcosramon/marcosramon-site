@@ -3,7 +3,6 @@ title: Quero correr
 date: 2015-09-17 00:00:00 Z
 categories:
 - cotidiano
-layout: post
 description: Acordei querendo correr.
 image: https://db.tt/kquffcgi
 author: Marcos Ramon
