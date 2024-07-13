@@ -6,7 +6,6 @@ categories:
 tags:
 - cotidiano
 - leitura
-layout: post
 description: Leitura religiosa fast-food... Sério?
 image: knowledge-fast-food-19637437.jpg
 author: Marcos Ramon
