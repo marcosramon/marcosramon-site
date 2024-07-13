@@ -5,7 +5,6 @@ categories:
 - blog
 tags:
 - cotidiano
-layout: post
 description: Eu tenho uma desconfiança. Mas uma desconfiança boa, não se assuste.
 author: Marcos Ramon
 ---
