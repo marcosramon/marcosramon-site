@@ -1,13 +1,11 @@
 ---
 title: 'Ficções #05 - Cultura pop'
 date: 2014-06-26 00:00:00 Z
-published: false
 categories:
 - ficcoes
 tags:
 - podcast
 - filosofia
-layout: post
 description: O que perdemos quando vivemos em uma cultura que é a mesma para todos?
 image: ficcoes.jpg
 author: Marcos Ramon
