@@ -3,7 +3,6 @@ title: Através de mim
 date: 2018-09-18 00:00:00 Z
 categories:
 - blog
-layout: post
 image: classroom.png
 excerpt: Sobre as frustrações do trabalho com educação
 ---
