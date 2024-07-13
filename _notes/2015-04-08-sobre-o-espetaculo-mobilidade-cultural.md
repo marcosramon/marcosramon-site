@@ -4,7 +4,6 @@ title: Sobre o espetáculo “Mobilidade Cultural — Corpos em Movimento” (pa
 date: 2015-04-08 00:00:00 Z
 categories:
 - blog
-layout: post
 image: corpos.png
 excerpt: O que a arte pode fazer com a gente?
 ---
