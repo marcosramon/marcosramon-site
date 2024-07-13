@@ -1,5 +1,4 @@
 ---
-layout: post
 date: 2014-10-08
 title: Qualquer história
 description: Toda história é interessante. Qualquer uma...
