@@ -5,7 +5,6 @@ categories:
 - blog
 tags:
 - cotidiano
-layout: post
 description: Você sabe esperar?
 author: Marcos Ramon
 ---
