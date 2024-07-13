@@ -5,7 +5,6 @@ tags:
 - cotidiano
 - sociedade
 - cultura
-layout: post
 description: Você quer ser tolerado?
 header-img: "/img/abstrato3.jpg"
 author: Marcos Ramon
