@@ -1,7 +1,6 @@
 ---
 title: 'Ficções #03 - O trabalho dignifica?'
 date: 2014-05-30 00:00:00 Z
-published: false
 categories:
 - ficcoes
 tags:
