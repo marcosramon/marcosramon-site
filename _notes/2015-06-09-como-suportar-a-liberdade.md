@@ -3,7 +3,6 @@ title: Como suportar a liberdade?
 date: 2015-06-09 00:00:00 Z
 tags:
 - cotidiano
-layout: post
 description: Se existe um valor que é quase unanimidade, pelo menos no nível do discurso,
   é a liberdade. Mas será que aceitamos realmente as consequências da liberdade ou
   será que esse é só mais um caso do tipo de coisa que defendemos a todo custo desde
