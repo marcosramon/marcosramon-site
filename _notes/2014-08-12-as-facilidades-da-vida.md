@@ -5,7 +5,6 @@ categories:
 - blog
 tags:
 - cotidiano
-layout: post
 description: Vim de carro pro trabalho hoje. Dirigi durante uns 15 minutos na incrível
   velocidade de 05 Km/h. No som do carro Iggy Pop gritava I got a lust for life e
   eu sentia a ironia de estar preso num engarrafamento sem sentido esperando o tempo
