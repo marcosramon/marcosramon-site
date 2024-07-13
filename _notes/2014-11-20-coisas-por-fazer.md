@@ -3,7 +3,6 @@ title: Coisas pra fazer
 date: 2014-11-20 00:00:00 Z
 tags:
 - cotidiano
-layout: post
 description: 'No final do ano passado eu fiz minha lista de resoluções para 2014.
   Como o ano já está quase acabando achei que era hora de prestar contas comigo mesmo.
   Do que me disse que devia fazer consegui algumas coisas: defendi a tese de doutorado,
