@@ -1,5 +1,4 @@
 ---
-layout: post
 date: 2015-04-20
 title: "O cansaço nosso de cada dia"
 description: "Nem sempre as coisas se encaminham na vida da gente da maneira como gostaríamos. A sensação geral - me diz aí se você não se sente assim - é de que a gente sempre pode fazer mais, construir mais."
