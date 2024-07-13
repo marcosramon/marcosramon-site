@@ -6,7 +6,6 @@ categories:
 tags:
 - cotidiano
 - cultura
-layout: post
 description: O futebol não é só um jogo, mas uma representação da ambiguidade moral
   humana.
 image: penaltifred.jpg
