@@ -6,7 +6,6 @@ categories:
 tags:
 - cotidiano
 - leitura
-layout: post
 description: Estava pensando dia desses que a leitura já podia não existir. Estamos
   com tecnologias cada vez mais interativas que permitem que a gente se comunique,
   produza e acesse informação de forma mais simples e rápida.
