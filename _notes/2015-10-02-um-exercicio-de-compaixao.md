@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Um exercício de compaixão
 description: "Só quando escondemos algo de nós mesmos é que nos supreendemos com o fato de que a nossa realidade é mais incompreensível do que imaginamos."
 published: true
