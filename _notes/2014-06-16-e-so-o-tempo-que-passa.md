@@ -5,7 +5,6 @@ categories:
 - blog
 tags:
 - cotidiano
-layout: post
 description: Todo dia a gente fica mais velho
 image: ficandovelho.jpg
 author: Marcos Ramon
