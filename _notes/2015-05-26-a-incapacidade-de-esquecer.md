@@ -1,5 +1,4 @@
 ---
-layout: post
 date: 2015-05-26
 title: "A incapacidade de esquecer"
 description: "Não temos muitos meios para falar e refletir sobre o passado. Nosso desejo constante por novidades, nosso ímpeto por progresso e superação nos dão pouco tempo e disposição para uma análise lenta e minuciosa do que nós mesmos somos, de nossas memórias, de nossa história."
