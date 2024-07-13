@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Temos direito ao sonho?
 description: "Estava no metrô vindo pro trabalho e ouvi três caras próximos a mim conversando todo tipo de barbaridades, coisas impronunciáveis que não quero fazer você ler."
 published: true
