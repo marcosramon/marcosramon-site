@@ -1,5 +1,4 @@
 ---
-layout: post
 date: 2015-02-26
 title: "Esperando alguma coisa acontecer"
 description: "É assim mesmo. A gente quer sempre mais de tudo, deseja mais do que deve, quer mais reconhecimento do que tem."
