@@ -1,13 +1,11 @@
 ---
 title: 'Ficções #04 - Informação (mais é menos?)'
 date: 2014-06-17 00:00:00 Z
-published: false
 categories:
 - ficcoes
 tags:
 - podcast
 - filosofia
-layout: post
 description: Vivemos em uma época em que nunca foi tão fácil ter acesso à informação.
   Quais são as implicações disso?
 image: ficcoes.jpg
