@@ -6,7 +6,6 @@ categories:
 tags:
 - ensino
 - cotidiano
-layout: post
 description: Nesse ano de campanha política a expressão que mais ouvi até agora foi
   escola em tempo integral.
 image: escola.jpg
