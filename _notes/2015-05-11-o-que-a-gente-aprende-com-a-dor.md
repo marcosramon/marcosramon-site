@@ -1,5 +1,4 @@
 ---
-layout: post
 date: 2015-05-11
 title: "O que a gente aprende com a dor?"
 description: "Ninguém quer sentir dor, ninguém quer se sentir limitado em suas ações e impedido de realizar tarefas simples do dia a dia. Mas quem sente dor, dependendo da dor, vive exatamente isso."
