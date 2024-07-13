@@ -1,5 +1,4 @@
 ---
-layout: post
 date: 2014-12-20
 title: "Quem ainda lê poesia hoje em dia?"
 description: "Eu te pergunto: quem realmente lê poesia hoje em dia? Você, provavelmente. Mas é exatamente isso que eu quero dizer. Se você está lendo esse blog é porque você não é lá uma pessoa muito normal - normal no sentido de comum, igual à maior parte das pessoas - e por isso faz todo sentido que você leia poesia. Mas para a maioria das pessoas a poesia é uma experiência antiga, um tipo de coisa que se fazia e se lia sabe-se lá quando e por qual motivo..."
