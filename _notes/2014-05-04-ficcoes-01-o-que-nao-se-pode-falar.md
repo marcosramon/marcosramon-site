@@ -1,7 +1,6 @@
 ---
 title: 'Ficções #01 - O que não se pode falar'
 date: 2014-05-04 00:00:00 Z
-published: false
 categories:
 - ficcoes
 tags:
