@@ -3,7 +3,6 @@ title: Vestígios
 date: 2020-01-02 00:00:00 Z
 categories:
 - blog
-layout: post
 image: vestigios.jpeg
 excerpt: Esses dias eu estava arrumando uns papéis para jogar fora e acabei encontrando
   algumas coisas que escrevi faz muito tempo – da época em que eu ainda escrevia no
