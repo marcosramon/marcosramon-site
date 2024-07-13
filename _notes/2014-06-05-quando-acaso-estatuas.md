@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Quando acaso estátuas
-published: true
+published: false
 tags: [poesia, desenho]
 author: Marcos Ramon
 header-img: "/img/sky2.jpg"
