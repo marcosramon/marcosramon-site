@@ -1,13 +1,17 @@
 ---
-title: Cansaço
+title: Por que você nunca vai ver um banner nese blog?
 date: 2014-10-01 00:00:00 Z
 tags:
 - tecnologia
 author: Marcos Ramon
 ---
 
-A palavra de ordem da internet atualmente é monetização. Um monte de gente quer saber como monetizar vídeos do youtube, como lucrar com anúncios em postagens de blog, como viver só de internet. Tem até blog especializado em ensinar a ganhar dinheiro com blog, o que é bem ridículo. 
-Eu sei que tem gente que vive trabalhando só na internet justamente porque encontrou um nicho em que se deu bem (humor, tecnologia, tutoriais, dicas de viagens etc.). E, óbvio, não tem nada de errado nisso. 
-Quando as pessoas passam encarar as suas atividades online como trabalho elas se profissionalizam nisso e, em geral, aprendem a fazer a coisa de um jeito bacana e honesto.
-Eu mesmo acompanho um monte de gente que transformou o antigo hobby (blog, podcast, canal do youtube etc.) em fonte de renda e acho que eles continuaram muito bem. 
-O problema- e o ridículo a que eu me referia antes- é quando todo mundo decide que é uma boa ideia fazer um dinheirinho online. E aí se danam a colocar banners, anúncios e coisas que poluem a visão de quem poderia eventualmente aproveitar o conteúdo que está ali. E aí
+Atualmente, a palavra de ordem na internet é monetização. Muitas pessoas buscam saber como monetizar vídeos no YouTube, lucrar com anúncios em postagens de blog e viver exclusivamente da internet. Há até blogs especializados em ensinar a ganhar dinheiro com blogs, o que considero um tanto ridículo.
+
+Entendo que algumas pessoas conseguem viver apenas do trabalho na internet porque encontraram um nicho onde se destacaram (humor, tecnologia, tutoriais, dicas de viagens, etc.). E, obviamente, não há nada de errado nisso.
+
+Quando as pessoas começam a encarar suas atividades online como um trabalho, elas se profissionalizam e geralmente aprendem a fazer isso de uma forma bacana e honesta.
+
+Eu mesmo acompanho várias pessoas que transformaram antigos hobbies (blogs, podcasts, canais do YouTube, etc.) em fontes de renda e acho que elas continuam se saindo muito bem. O problema – e o ridículo a que me referia antes – é quando todos decidem que é uma boa ideia ganhar dinheiro online. Então, enchem seus espaços com banners, anúncios e outras coisas que poluem a experiência de quem poderia, eventualmente, aproveitar o conteúdo ali disponível.
+
+Ninguém suporta tanta propaganda, nem uma experiência que não faz você se sentir bem-vindo. A internet está se tornando um espaço cada vez pior.
