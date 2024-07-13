@@ -5,7 +5,6 @@ categories:
 - blog
 tags:
 - cotidiano
-layout: post
 description: insisto porque não sei ser diferente disso que eu sou. Isso que eu vejo
   no espelho, isso que caminha, come e pensa. Isso que agora, sentado e cansado, escreve
   pra ninguém.
