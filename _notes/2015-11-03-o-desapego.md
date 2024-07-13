@@ -7,7 +7,6 @@ tags:
 - cotidiano
 - leitura
 - livros
-layout: post
 description: Ontem separei alguns livros para doar, livros que estavam sem uso, estragando
   em uma estante perto da cozinha.
 image: books.jpg
