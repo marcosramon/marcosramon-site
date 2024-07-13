@@ -1,5 +1,4 @@
 ---
-layout: post
 date: 2015-06-26
 title: "Hoje, não ontem"
 description: "Cada decisão minha reverbera um pouco do passado. E isso que eu insisto em chamar de vida acaba sendo uma colcha de retalhos de tudo o que eu sou, de tudo o que eu fui."
