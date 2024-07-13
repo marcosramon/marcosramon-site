@@ -5,7 +5,6 @@ categories:
 - blog
 tags:
 - cotidiano
-layout: post
 description: Hoje o dia amanheceu bem frio. Desci pra comprar pão e a rua estava quase
   vazia; ninguém passeando com cachorro, duas pessoas na padaria, poucos carros passando...
 author: Marcos Ramon
