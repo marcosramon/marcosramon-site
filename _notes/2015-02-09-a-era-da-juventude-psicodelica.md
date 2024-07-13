@@ -4,7 +4,6 @@ date: 2015-02-09 00:00:00 Z
 published: false
 tags:
 - cotidiano
-layout: post
 description: Se você acha que vai ler aqui um texto sobre a contracultura hippie da
   década de 1960 pode ir tirando o cavalinho da chuva. Esse texto é sobre a geração
   atual. Ah, e nesses jovens pode incluir crianças na frente da tevê. Pois é, os desenhos
