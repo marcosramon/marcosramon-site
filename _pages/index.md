@@ -24,7 +24,7 @@ Inscreva-se na [newsletter](https://marcosramon.substack.com/) para receber atua
 
 <ul>
   {% assign recent_notes = site.notes | sort: "date" | reverse %}
-  {% for note in recent_notes limit: 5 %}
+  {% for note in recent_notes limit: 12 %}
     <li>
       {{ note.date | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
     </li>
