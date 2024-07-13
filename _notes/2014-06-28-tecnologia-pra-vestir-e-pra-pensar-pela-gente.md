@@ -6,7 +6,6 @@ categories:
 tags:
 - tecnologia
 - internet
-layout: post
 description: Queremos mais tecnologia pra nos vigiar?
 image: abstrato5.jpg
 ---
