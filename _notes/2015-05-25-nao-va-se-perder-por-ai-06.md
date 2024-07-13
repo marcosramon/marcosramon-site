@@ -1,5 +1,4 @@
 ---
-layout: post
 date: 2015-05-25
 title: "Não vá se perder por aí #06"
 description: "Dicas de links bacanas pra você passar a semana."
