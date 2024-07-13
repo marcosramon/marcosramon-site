@@ -7,7 +7,6 @@ categories:
 tags:
 - podcast
 - filosofia
-layout: post
 description: Vivemos em sociedade porque isso é parte de nossa natureza. No entanto,
   o que justifica o fato de que tenhamos o ímpeto de colaborar com outros mesmo quando
   não existe nenhum ganho objetivo em vista? A colaboração nos mostra que a experiência
