@@ -6,7 +6,6 @@ categories:
 tags:
 - tecnologia
 - cultura
-layout: post
 description: Estamos nos entupindo de objetos e coisas sem sentido
 image: fastshop1.jpg
 author: Marcos Ramon
