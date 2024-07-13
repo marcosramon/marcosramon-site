@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Antes de tudo
 published: true
 date: 2015-09-18
