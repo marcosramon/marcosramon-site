@@ -11,10 +11,11 @@ permalink: /
 
 Meu nome é Marcos Ramon. Sou professor de Filosofia no IFB, pesquisando estética e cibercultura.
 
-- 😷 [Sobre o autor](https://marcosramon.net/sobre)
+- 😊 [Sobre o autor](https://marcosramon.net/sobre)
 - 📂 [Arquivo](https://marcosramon.net/arquivo)
 - 📘 [Livros publicados](https://marcosramon.net/livros) 
 - 🎙️ [Podcast](https://open.spotify.com/show/1smphr2Sl3kHncMYB984rc?si=Ds7GV4oNQnGxsm-bxYvasA&nd=1)
+- 📺 [YouTube](https://www.youtube.com/conexaofilosofica)
 - 😍 [Apoie](https://marcosramon.net/apoie)
 
 Inscreva-se na [newsletter](https://marcosramon.substack.com/) para receber atualizações por email. 😉
