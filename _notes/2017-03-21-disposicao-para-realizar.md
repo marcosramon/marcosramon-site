@@ -3,7 +3,6 @@ title: Disposição para realizar
 date: 2017-03-21 00:00:00 Z
 categories:
 - blog
-layout: post
 excerpt: Clay Shirky é um dos autores mais interessantes para se ler quando o tema
   é mídias sociais. Diferentemente de muitos escritores que ressaltam o lado catastrófico
   e agressivo das tecnologias digitais e da internet em nossas vidas, Shirky observa
