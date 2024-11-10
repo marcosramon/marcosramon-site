@@ -28,5 +28,3 @@ Ficamos pra ver a banda correndo pelo palco, tocando Odara; aplaudimos, agradece
 Dei o título pro texto de “espírito do tempo”, mas não quero deixar a impressão final de que isso é um saudosismo de outra época. Nem sei se era diferente em outra época. 
 
 O que sei mesmo é que é difícil ser gente.
-
-<img src="/assets/images/tempo.jpg">
