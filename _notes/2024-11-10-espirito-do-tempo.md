@@ -1,7 +1,7 @@
 ---
 title: Espírito do tempo
 data: 2024-11-10
-excerpt: "Sobre a necessidade de aprender a respirar melhor"
+excerpt: "Sobre nosso estilo de vida, a pressa, o incômodo, a incapacidade de aproveitar o momento"
 ---
 
 Último show de Maria Bethânia e Caetano Veloso cantando juntos. Eles começam a penúltima música do show e as pessoas começam a ir embora, para evitar o trânsito.
