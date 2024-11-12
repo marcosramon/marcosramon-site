@@ -8,7 +8,7 @@ permalink: /sobre
 
 <img src="/assets/images/tolis2023.jpg" width="320" height="320">
 
-Meu nome é Marcos Ramon. Nasci em São Luís, mas moro em Brasília desde 2010. Sou pesquisador, professor e podcaster, e pesquiso cibercultura, estética e cultura digital. Sou professor de Filosofia no Instituto Federal de Brasília, atuando também no Mestrado em Educação Profissional e Tecnológica.
+Meu nome é Marcos Ramon. Nasci em São Luís, mas moro em Brasília desde 2010. Sou professor de Filosofia no Instituto Federal de Brasília, onde pesquiso cibercultura, estética e cultura digital. Também faço podcasts e vídeos para o YouTube. 
 {: .message }
 
 Sou Licenciado em Filosofia pela Universidade Federal do Maranhão (1999-2004), onde também concluí o Mestrado em Cultura e Sociedade (2009-2011). Fiz o Doutorado em Comunicação na Universidade de Brasília (2012-2014). 
