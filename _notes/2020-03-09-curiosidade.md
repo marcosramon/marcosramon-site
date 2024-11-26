@@ -3,7 +3,6 @@ title: Curiosidade
 date: 2020-03-09 00:00:00 Z
 categories:
 - blog
-layout: post
 excerpt: Para Platão, assim como para Aristóteles, o sentimento motivador da atitude
   filosófica era a admiração, o espanto diante da realidade e dos mistérios da vida.
   É porque somos curiosos, porque queremos saber, que começamos a perguntar. No entanto,
