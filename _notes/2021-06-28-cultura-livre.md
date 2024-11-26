@@ -3,7 +3,6 @@ title: Cultura livre
 date: 2021-06-28 00:00:00 Z
 categories:
 - blog
-layout: post
 image: money.GIF
 excerpt: De vez em quando eu olho as estatísticas do meu site e fico besta de ver
   a quantidade de pessoas que ainda tem interesse em blog. Hoje, eu me preocupo menos
