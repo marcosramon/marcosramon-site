@@ -3,7 +3,6 @@ title: A repetição que nos acolhe
 date: 2021-02-01 00:00:00 Z
 categories:
 - blog
-layout: post
 image: 
 excerpt: 'Nossa primeira forma de relacionamento com a realidade, e a mais duradoura,
   é a indução. Invariavelmente acontece assim: observamos determinados fatos, testamos
