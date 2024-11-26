@@ -3,7 +3,6 @@ title: Marx e as diferentes faces da dialética
 date: 2020-11-27 00:00:00 Z
 categories:
 - blog
-layout: post
 image: dialetica.png
 excerpt: A reflexão sobre a palavra dialética passa hoje, necessariamente, pela presença
   da filosofia de Marx. Mas o próprio Marx incorporou o uso da dialética a partir
