@@ -5,7 +5,6 @@ categories:
 - blog
 tags:
 - arte
-layout: post
 description: A utilização da expressão arte pop remete às experimentações de Richard
   Hamilton, Roy Lichtenstein, Andy  Warhol, dentre outros.
 image: drowninggirl.jpg
