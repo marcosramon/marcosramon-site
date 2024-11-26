@@ -3,7 +3,6 @@ title: Apostila Filosofia 2º ano (parte 1)
 date: 2020-10-01 00:00:00 Z
 categories:
 - aulas
-layout: post
 image: conhecimento.png
 excerpt: 'Conteúdo de Filosofia para o 2º ano do Ensino Médio. Tema: teoria do conhecimento'
 ---
