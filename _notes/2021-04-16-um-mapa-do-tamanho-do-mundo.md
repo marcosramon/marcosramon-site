@@ -3,7 +3,6 @@ title: Um mapa do tamanho do mundo
 date: 2021-04-16 00:00:00 Z
 categories:
 - blog
-layout: post
 image: Gillam2.jpg
 excerpt: Esses dias, organizando uma aula de Metodologia de Pesquisa pra uma turma
   do Mestrado em que eu dou aula, lembrei de um texto do Jorge Luis Borges, chamado
