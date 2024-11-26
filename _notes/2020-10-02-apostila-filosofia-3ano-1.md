@@ -3,7 +3,6 @@ title: Apostila Filosofia 3º ano (parte 1)
 date: 2020-10-02 00:00:00 Z
 categories:
 - aulas
-layout: post
 image: etica2.PNG
 excerpt: 'Conteúdo de Filosofia para o 3º ano do Ensino Médio. Tema: ética'
 ---
