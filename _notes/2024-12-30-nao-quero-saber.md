@@ -25,3 +25,4 @@ Pior é que a vida que temos é tão integrada, e a informação circula tão be
 Quero ter espaço na cabeça para pensar e desejar, mas por mim mesmo, sem algoritmos ou acumulação. Quero ter espaço para viver. Nesse próximo ano, te desejo o mesmo.
 
 <img src="/assets/images/dada.png">
+<figcaption>Untitled (Dada) por Hannah Höch, 1922</figcaption>
