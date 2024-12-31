@@ -1,6 +1,6 @@
 ---
 title: Não quero saber
-data: 2024-12-30
+data: 2024-30-12
 excerpt: Quem precisa saber tanta coisa?
 ---
 
