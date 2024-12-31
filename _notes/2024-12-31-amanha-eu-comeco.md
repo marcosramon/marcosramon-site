@@ -9,6 +9,6 @@ Amanhã eu começo um novo ano. Como todas as vezes, vou dedicar um tempo para p
 E de alguma forma, as encontro. Porque as soluções são intermináveis (estão sempre nos cercando aos montes) e porque não há modo de viver senão buscando um caminho para seguir. Para mim, é o suficiente. Acreditar que vale a pena começar ainda agora, amanhã, sempre.
 
 <figure>
-<img src="/assets/images/BEACH-2.jpg">
-<figcaption>Colagem de <a herf="https://keelertornero.com/">Keeler Tornero</a></figcaption>
+  <img src="/assets/images/BEACH-2.jpg">
+  <figcaption>Colagem de <a href="https://keelertornero.com/">Keeler Tornero</a></figcaption>
 </figure>
