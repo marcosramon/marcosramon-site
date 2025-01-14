@@ -12,9 +12,7 @@ Faça uma doação única (você escolhe o valor). Qualquer colaboração já é
 
 <i class="fas fa-heart"></i> Doação única pelo Pix: pix@marcosramon.net
 
-<i class="fas fa-heart"></i> [Doação única pelo PicPay](https://app.picpay.com/user/marcosramon){:target="_blank"}
-
-<i class="fas fa-heart"></i> [Doação única pelo PagSeguro](https://pag.ae/7VyVHU82P){:target="_blank"}
+<i class="fas fa-heart"></i> [Doação única pelo PagSeguro](https://pag.ae/7VyVHU82P){:target="_blank"}{: .internal-link}
 
 ## Me siga
 
