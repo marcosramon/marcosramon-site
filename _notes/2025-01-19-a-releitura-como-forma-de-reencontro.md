@@ -1,6 +1,6 @@
 ---
 title: A releitura como forma de reencontro
-excerpt: Reli Coiote, de Roberto Freire, um livro que descobri no final da adolescência. Não encontrei o livro que amava, mas achei outras coisas.
+excerpt: Reli Coiote, de Roberto Freire, um livro que descobri faz muito tempo. Não reencontrei o livro que amava, mas achei outras coisas.
 date: 2025-01-19
 ---
 
@@ -18,7 +18,7 @@ Nunca tinha ouvido falar. Nem do livro, nem do autor.
 
 Entrei na biblioteca, encontrei o livro, sentei naquelas mesas com um monte de gente passando tempo ou lendo aqueles jornais presos nuns pedaços de madeira (se você entende isso, deve ter uma idade próxima à minha) e comecei a leitura.  
 
-Fiquei impressionado. O começo do livro era muito, mas muito bom mesmo. Emprestei o livro, levei pra casa e li rapidinho, em poucos dias. E nunca agradeci àquela pessoa que olhou pra mim e pensou, entre tantas possibilidades, justamente naquele livro (e por quê, aliás?)
+Fiquei impressionado. O começo do livro era muito, mas muito bom mesmo. Peguei o livro emprestado e li rapidinho, em poucos dias. E nunca agradeci àquela pessoa que olhou pra mim e pensou, entre tantas possibilidades, justamente naquele livro (e por quê, aliás?)
 
 Muitos anos depois, já em Brasília, lembrei do livro e procurei na internet, só para descobrir que não tinha edição nova ou republicações recentes. Só dava pra encontrar em sites de venda de usados.  
 
